@@ -30,3 +30,16 @@ Helst i intervallerna 5, 10 eller max 15 minuter.
 ### Regler
 * Det är bara föraren som får sköta musen och tangentbordet.
   * I och med att rollerna byts ofta, så vet barnen att de får möjlighet att testa sina idéer i sinom tid.
+
+## Mobprogramming
+I större grupper (3 och uppåt), så kan det bli lite stökigt om alla pratar samtidigt.
+
+Vid dessa tillfällen kan du använda samma metod som i parprogrammeringen (med en förarare och en kartläsare) och låta de andra sitta och lyssna.   
+Kartläsaren får fråga de andra i "publiken" och de får absolut svara då.  
+Men initiativet till diskussionen ska komma från kartläsaren.
+
+De som lyssnar får lite välbehövlig vila och tid för reflektion.  
+Samtidigt som de hela tiden får höra hur andra tänker kring problemet.  
+
+I mobprogrammering är det bra att köra kortare intervaller. 5 eller 10 minuter max.  
+Detta för att väntan inte ska kännas för lång för barnen.
