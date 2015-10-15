@@ -15,7 +15,7 @@ Viktiga rörelser
 
 * Gå < x > steg
 * Titta mot (För att byta riktning)
-* Flytta till <x, y> (för att nollställa spelet)
+* Flytta till < x, y > (för att nollställa spelet)
 
 ## Första övningen
 För att kombinera de viktigaste rörelserna så är första uppgiften att få katten i scratch att röra sig.
