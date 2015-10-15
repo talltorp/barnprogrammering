@@ -1,5 +1,5 @@
 # Introduktion
-Introductionen bör inte vara längre än 5-10 minuter.
+Introduktionen bör inte vara längre än 5-10 minuter.
 Barnen är intresserade av att komma igång.
 
 ## Föreslaget innehåll
