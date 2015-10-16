@@ -1,5 +1,3 @@
-![Alla piltangenterna](/images/blocks/gå-i-fyra-riktningar.png)
-
 # Spring så fort du kan
 
 Detta spelet har ett enkelt mål; Ta dig över mållinjen först
