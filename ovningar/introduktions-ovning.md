@@ -14,16 +14,17 @@ Katten tittar i början åt höger, så det är enklast att få den att gå dit�
 
 I detta steg kommer vi arbeta med piltangenten till höger.
 
-![Flytta katten till höger](/images/blocks/flytta-katten-till-höger.png)
+![Flytta katten till höger](/images/blocks/flytta-katten-till-hoger.png)
 
 ### Flytta katten uppåt, till vänster, höger och neråt
 I detta steg introducerar vi ett nytt block; "Peka i riktning"
+
 ![Peka i riktning](/images/blocks/peka-i-riktning.png)
 
 Vi använder alla piltangenterna nu och kopplar på riktningen för varje
 piltangent.
 
-![Alla piltangenterna](/images/blocks/gå-i-fyra-riktningar.png)
+![Alla piltangenterna](/images/blocks/ga-i-fyra-riktningar.png)
 
 ### Återställ spelet
 Detta är en introduktion till hur spelytan fungerar.  
@@ -31,6 +32,7 @@ Detta är en introduktion till hur spelytan fungerar.
 När du för muspekaren runt på spelytan, så ser du kordinaterna i nedre högra
 hörnet.  
 Mitten av spelplanen har kordinaterna `x=0` och `y=0`.
+
 ![Visa kordinater](/images/blocks/visa-kordinater.png)
 
 För att flytta katten till den positionen använder vi "Gröna flaggan".
