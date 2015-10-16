@@ -19,4 +19,5 @@ Viktiga rörelser
 * "Peka i riktning" (För att byta riktning)
 * Flytta till < x, y > (för att nollställa spelet)
 
-[Steg för steg instruktioner för denna övningen](/övningar/introduktions-övning.md)
+[Steg för steg instruktioner för denna övningen](/ovningar/introduktions-ovning.md)
+

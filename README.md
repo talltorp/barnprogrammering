@@ -11,5 +11,5 @@ Material och metoder att använda när du vill börja programmera med en grupp b
 * [Förberedelser innan lektionen sätter igång](initial-preparations.md)
 
 ## Övningar
-* [Första introduktion](/övningar/introduktions-övning.md)
+* [Första introduktion](/ovningar/introduktions-ovning.md)
 
