@@ -49,9 +49,9 @@ I detta lägger vi in en "Större än"-operator som innehåller...
 
 .. och x-positionen på mållinjen, som du hittar på detta sätt  
 ![xposition på
-mållinje](/images/blocks/spring-sa-fort-du-kan/x-position-pa-mallinje.png)
+mållinje](/images/blocks/spring-sa-fort-du-kan/hitta-x-position-pa-mallinje.png)
 
-Slutresultatet ser ut så här
+Slutresultatet ser ut så här  
 ![Har sprungit över
 mållinjen](/images/blocks/spring-sa-fort-du-kan/har-sprungit-over-mallinjen.png)
 
