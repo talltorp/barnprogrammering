@@ -9,3 +9,7 @@ Material och metoder att använda när du vill börja programmera med en grupp b
 * [Att jobba i grupper](working-in-groups.md)
 * [Regler och strukturer under dagen](rules-and-structures.md)
 * [Förberedelser innan lektionen sätter igång](initial-preparations.md)
+
+## Övningar
+* [Första introduktion](/övningar/introduktions-övning.md)
+
