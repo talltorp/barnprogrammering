@@ -3,6 +3,7 @@
 För att kombinera de viktigaste rörelserna så är första uppgiften att få katten i scratch att röra sig.  
 
 ## Uppgifter
+* Fritt utforskande av "Händelser" och "Rörelser"
 * Få katten att gå från mitten av ytan och ut till en kant.
 * Få katten att gå längs utkanten av hela rutan och sedan tillbaka till mitten.
 * Återställ spelet till dess originalform, klicka på den gröna flaggan.
