@@ -18,6 +18,8 @@ I detta steg kommer vi arbeta med piltangenten till höger.
 ![Flytta katten till höger](/images/blocks/flytta-katten-till-hoger.png)
 
 ### Flytta katten uppåt, till vänster, höger och neråt
+![Flytta katten i fyra riktningar](/images/blocks/katten-gar-i-fyra-riktningar.png)
+
 I detta steg introducerar vi ett nytt block; "Peka i riktning"
 
 ![Peka i riktning](/images/blocks/peka-i-riktning.png)
