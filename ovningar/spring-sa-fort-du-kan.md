@@ -36,6 +36,9 @@ För att veta om figuren har kommit över mållinjen, så behöver vi på något
 säga "Om figurens `x-position` är högre än mållinjens `x-position`, så säger
 jag JAAA".
 
+Denna övning använder block från flera kategorier.  
+Skriv gärna ut [detta dokument](https://docs.google.com/document/d/1TWWXtoiNGTc23qed5cwHx88KNNQPpuAAADPB_Syy8uw/edit?usp=sharing) och lämna ut det till eleverna, så de kan se alla kategorierna på en gång.  
+
 Detta gör vi med ett "om"-block.  
 ![Om-block](/images/blocks/spring-sa-fort-du-kan/om-block.png)
 
